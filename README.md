@@ -1,16 +1,10 @@
 # posts_app_fire
 
-A new Flutter project.
+<img src="https://github.com/AbanoubEzzat1/posts_app_firebase/blob/master/PostsApp.png">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+A Flutter app developed for displaying posts with clean architecture and design
+patterns. The app utilizes Firebase for data storage, GitIt for version control, and
+Cubit packages for state management. It also incorporates shared preference
+packages for data persistence
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
